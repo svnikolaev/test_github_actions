@@ -39,7 +39,7 @@ class Somiac:
                 "volunteer_call": 0,
                 "other": 0,
                 "number_of_no_answered_calls": 1,
-                "covid_directions": 3
+                "covid_directions": 3,
                 "date": datetime.datetime(2022, 1, 20, 21, 1, 49, 634746)
             }
         """
